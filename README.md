@@ -1,0 +1,9 @@
+👋 Hi, I’m @Harsha83-2  
+🎯 Aspiring Data Analyst | Power BI Enthusiast | SQL Learner  
+
+- 👀 I’m interested in data science, data analytics, and solving real-world business problems  
+- 💼 I’m looking to join the data analytics field and contribute to impactful projects  
+- 💞️ I’m open to collaborating on data storytelling, dashboards, and analytics challenges  
+- 📫 How to reach me: korupolu2002@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love turning messy data into meaningful visuals that help people make smart decisions!
