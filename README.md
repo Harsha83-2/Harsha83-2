@@ -1,6 +1,5 @@
-👋 Hi, I’m @Harsha83-2  
-🎯 Aspiring Data Analyst | Power BI Enthusiast | SQL Learner  
-
+👋 Hi, I’m Harsha Vardhan Korupolu 
+🎯 Aspiring Data Analyst | Data Science Enthusiast 
 - 👀 I’m interested in data science, data analytics, and solving real-world business problems  
 - 💼 I’m looking to join the data analytics field and contribute to impactful projects  
 - 💞️ I’m open to collaborating on data storytelling, dashboards, and analytics challenges  
